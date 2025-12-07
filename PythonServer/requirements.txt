@@ -1,0 +1,6 @@
+# VR Buzz Wire Game - Python Dependencies
+# VR 電流急急棒遊戲 - Python 套件
+
+flask>=2.0.0
+flask-cors>=3.0.0
+numpy>=1.20.0
